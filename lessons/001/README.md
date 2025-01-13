@@ -12,7 +12,6 @@
 | 工具名称 | 控制功能 | 文字输入示例 |
 | --- | --- | --- |
 | hide_top_menu_bar | 控制顶部菜单栏显示或隐藏 | 请显示顶部菜单，请关闭顶部菜单 |
-| change_display_mode | 修改显示分辨率 | 请切换到1080p模式 |
 | open_app | 打开应用程序 | 请打开浏览器 |
 | hide_dock | 控制 dock 显示活隐藏 | 请显示 dock |
 | move_dock | 控制 dock显示位置 | 请把 dock 显示在右边 |
