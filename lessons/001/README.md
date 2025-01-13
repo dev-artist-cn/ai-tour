@@ -47,6 +47,11 @@ python agent.py
 ```
 首次运行需要同意访问权限， 请点击 `允许`。
 
+## 大语言模型 API Key 获取
+
+ * 通义千问: https://bailian.console.aliyun.com/?apiKey=1#/api-key
+ * DeepSeek: https://platform.deepseek.com/api_keys
+
 ## 其他依赖
 
 项目中的修改屏幕分辨率功能需要安装 `displayplacer` 依赖，可以通过以下命令安装：
